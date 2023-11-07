@@ -17,7 +17,6 @@ Postman
 
 ![image](https://github.com/adnan-khadija/Springboot-Swagger/assets/147508009/4a8d65c6-085e-401f-8e6f-ee051941430c)
 
-![Uploading image.png…]()
 
 
 
